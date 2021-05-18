@@ -1,0 +1,195 @@
+h1{
+    text-align: center;
+    font-size: 25px;
+    color:rgb(0, 0, 0);
+    padding-bottom: 40px;
+}
+
+h2{
+    text-align: left;
+    font-size: 20px;
+    color:rgb(0, 0, 0);
+    padding-top: 30px;
+}
+
+img{
+    border-style: solid;
+    border-width: 5px;
+    border-color: rgb(37, 102, 140);
+}
+
+
+p2{
+    color:rgb(252, 10, 10);
+}
+
+p3{
+    color:rgb(25, 95, 185);
+    text-decoration: underline;
+}
+
+
+p{
+    color:rgb(0, 0, 0);
+}
+
+p2{
+    color:rgb(252, 10, 10);
+}
+
+button {
+    position: absolute;
+    width: 294px;
+    left: 2px;
+    top:315px;
+    background-color: rgb(37, 102, 140);
+    padding: 5px 15px;
+    border: none;
+    color: white;
+    font-size: 18px;
+    border-radius: 2px;
+    cursor: pointer;
+}
+
+input {
+    position: absolute;
+    left:-30px;
+    top:0px;
+    color: white;   
+    font-size: 1px;
+}
+
+.textniz{
+    left:0px;
+    top:0px;
+    display: -moz-box;
+    font-size: 18px;
+}
+
+.row {
+    position: relative;
+    top: 285px;
+    left: 100px;
+}
+
+.columninst {
+    position: absolute;
+    padding-left: 20px;
+    top:-200px;
+    left:-1000px;
+    text-align: left; 
+    background-color: rgb(255, 255, 255);
+    width: 1800px;
+    height: 4000px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(37, 102, 140);
+    background: linear-gradient(to bottom, rgb(255, 255, 255)rgba(255, 255, 255, 0.7)7);
+    padding-bottom: 5px;
+}
+
+
+.columnscreenup {
+    position: absolute;
+    top: 740px;
+    left:-246px;
+    text-align: center; 
+    background-color: rgb(255, 255, 255);
+    width: 300px;
+    height: 50px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(37, 102, 140);
+    background: linear-gradient(to bottom, rgb(255, 255, 255)rgba(255, 255, 255, 0.7)7);
+    padding-bottom: 5px;
+}
+
+
+.columnback {
+    position: absolute;
+    top:-183px;
+    left:-572px;
+    text-align: center; 
+    background-color: rgb(255, 255, 255);
+    width: 300px;
+    height: 50px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(37, 102, 140);
+    background: linear-gradient(to bottom, rgb(255, 255, 255)rgba(255, 255, 255, 0.7)7);
+    padding-bottom: 5px;
+}
+
+.columnnext {
+    position: absolute;
+    top:-183px;
+    left:80px;
+    text-align: center; 
+    background-color: rgb(255, 255, 255);
+    width: 300px;
+    height: 50px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(37, 102, 140);
+    background: linear-gradient(to bottom, rgb(255, 255, 255)rgba(255, 255, 255, 0.7)7);
+    padding-bottom: 5px;
+}
+
+.columnmain {
+    position: absolute;
+    top:-183px;
+    left:-246px;
+    text-align: center; 
+    background-color: rgb(255, 255, 255);
+    width: 300px;
+    height: 50px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(37, 102, 140);
+    background: linear-gradient(to bottom, rgb(255, 255, 255)rgba(255, 255, 255, 0.7)7);
+    padding-bottom: 5px;
+}
+
+.columnen {
+    position: absolute;
+    left:-572px;
+    background-color: rgb(255, 255, 255);
+    width: 300px;
+    height: 350px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(37, 102, 140);
+    background: linear-gradient(to bottom, rgb(255, 255, 255)rgba(255, 255, 255, 0.7)7);
+    padding: 10px;
+    padding-top: 0px;
+}
+
+.columngr {
+    position: absolute;
+    left:-246px;
+    background-color: rgb(255, 255, 255);
+    width: 300px;
+    height: 350px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(37, 102, 140);
+    background: linear-gradient(to bottom, rgb(255, 255, 255)rgba(255, 255, 255, 0.7)7);
+    padding: 10px;
+    padding-top: 0px;
+}
+
+.columnru {
+    position: absolute;
+    left:80px;
+    background-color: rgb(255, 255, 255);
+    width: 300px;
+    height: 350px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(37, 102, 140);
+    background: linear-gradient(to bottom, rgb(255, 255, 255)rgba(255, 255, 255, 0.7)7);
+    padding: 10px;
+    padding-top: 0px;
+}
+
+

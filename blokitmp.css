@@ -1,0 +1,168 @@
+p{
+    color:rgb(0, 0, 0);
+}
+
+button {
+    position: absolute;
+    width: 494px;
+    left: 2px;
+    top:565px;
+    background-color: rgb(37, 102, 140);
+    padding: 5px 15px;
+    border: none;
+    color: white;
+    font-size: 18px;
+    border-radius: 2px;
+    cursor: pointer;
+}
+
+input {
+    position: absolute;
+    left:-30px;
+    top:0px;
+    color: white;   
+    font-size: 1px;
+}
+
+.textniz{
+    left:0px;
+    top:0px;
+    display: -moz-box;
+    font-size: 18px;
+}
+
+.row {
+    position: relative;
+    top: 285px;
+    left: 100px;
+}
+
+.border {
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(37, 102, 140);
+    background: linear-gradient(to bottom, rgb(255, 255, 255)rgba(255, 255, 255, 0.7)7);
+}
+
+.columnscreendown {
+    position: absolute;
+    top:500px;
+    left:-246px;
+    text-align: center; 
+    background-color: rgb(255, 255, 255);
+    width: 500px;
+    height: 50px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(37, 102, 140);
+    background: linear-gradient(to bottom, rgb(255, 255, 255)rgba(255, 255, 255, 0.7)7);
+    padding-bottom: 5px;
+}
+
+.columnscreenup {
+    position: absolute;
+    top: 740px;
+    left:-246px;
+    text-align: center; 
+    background-color: rgb(255, 255, 255);
+    width: 500px;
+    height: 50px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(37, 102, 140);
+    background: linear-gradient(to bottom, rgb(255, 255, 255)rgba(255, 255, 255, 0.7)7);
+    padding-bottom: 5px;
+}
+
+
+.columnback {
+    position: absolute;
+    top:-183px;
+    left:-600px;
+    text-align: center; 
+    background-color: rgb(255, 255, 255);
+    width: 500px;
+    height: 50px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(37, 102, 140);
+    background: linear-gradient(to bottom, rgb(255, 255, 255)rgba(255, 255, 255, 0.7)7);
+    padding-bottom: 5px;
+}
+
+.columnnext {
+    position: absolute;
+    top:-183px;
+    left:420px;
+    text-align: center; 
+    background-color: rgb(255, 255, 255);
+    width: 500px;
+    height: 50px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(37, 102, 140);
+    background: linear-gradient(to bottom, rgb(255, 255, 255)rgba(255, 255, 255, 0.7)7);
+    padding-bottom: 5px;
+}
+
+.columnmain {
+    position: absolute;
+    top:-183px;
+    left:-90px;
+    text-align: center; 
+    background-color: rgb(255, 255, 255);
+    width: 500px;
+    height: 50px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(37, 102, 140);
+    background: linear-gradient(to bottom, rgb(255, 255, 255)rgba(255, 255, 255, 0.7)7);
+    padding-bottom: 5px;
+}
+
+.columnen {
+    position: absolute;
+    top:-100px;
+    left:-600px;
+    background-color: rgb(255, 255, 255);
+    width: 500px;
+    height: 600px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(37, 102, 140);
+    background: linear-gradient(to bottom, rgb(255, 255, 255)rgba(255, 255, 255, 0.7)7);
+    padding: 10px;
+    padding-top: 0px;
+}
+
+.columngr {
+    position: absolute;
+    top:-100px;
+    left:-90px;
+    background-color: rgb(255, 255, 255);
+    width: 500px;
+    height: 600px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(37, 102, 140);
+    background: linear-gradient(to bottom, rgb(255, 255, 255)rgba(255, 255, 255, 0.7)7);
+    padding: 10px;
+    padding-top: 0px;
+}
+
+.columnru {
+    position: absolute;
+    top:-100px;
+    left:420px;
+    background-color: rgb(255, 255, 255);
+    width: 500px;
+    height: 600px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(37, 102, 140);
+    background: linear-gradient(to bottom, rgb(255, 255, 255)rgba(255, 255, 255, 0.7)7);
+    padding: 10px;
+    padding-top: 0px;
+}
+
+

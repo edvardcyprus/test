@@ -1,0 +1,91 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+img{
+    border-style: solid;
+    border-width: 5px;
+    border-color: rgb(37, 102, 140);
+}
+
+.slidershow{
+width: 334px;
+height: 702px;
+overflow: hidden;
+}
+.middle{
+    position: absolute;
+    top: 10%;
+    left: 1300px;
+    transform: translate (-50%,-50%);
+}
+.navigation{
+    position: absolute;  
+    bottom: 6px;
+    left: 157px;
+    transform: translateX(-50%);
+    display: flex;
+}
+.bar{
+    width:35px;
+    Height:25px;
+    Border: 1px solid rgb(37, 102, 140);
+    margin: 2px
+}
+.bar:hover{
+    background:rgb(37, 102, 140);
+}
+
+input[name="r"]{
+    position: absolute;
+    visibility: hidden;
+}
+
+.slides{
+   Width: 820%;
+   height: 100%;
+   display: flex; 
+}
+
+.slide{
+    width: 334px
+    transition
+}
+
+.slide img{
+    width:94%;
+    height: 94%;
+}
+
+#r1:checked ~.s1{
+    margin-left:0;
+}
+
+#r2:checked ~.s1{
+    margin-left: -334px;
+}
+
+#r3:checked ~.s1{
+    margin-left:-668px;
+}
+
+#r4:checked ~.s1{
+    margin-left:-1002px;
+}
+
+#r5:checked ~.s1{
+    margin-left:-1336px;
+}
+
+#r6:checked ~.s1{
+    margin-left:-1670px;
+}
+
+#r7:checked ~.s1{
+    margin-left:-2004px;
+}
+
+#r8:checked ~.s1{
+    margin-left:-2338px;
+}
